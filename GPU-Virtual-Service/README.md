@@ -8,6 +8,7 @@ Flex:ai开源项目，提供将GPU算力卡进行虚拟化切分，以及面向A
 - K8s支持版本：1.31.1
 - nvidia driver： https://www.nvidia.cn/drivers/details/228697/
 - nvidia-container-toolkit： [nvidia-container-toolkit_1.16.1_rpm_x86_64.tar.gz](https://github.com/NVIDIA/nvidia-container-toolkit/releases/download/v1.16.1/nvidia-container-toolkit_1.16.1_rpm_x86_64.tar.gz).
+- 基础镜像地址：https://repo.openeuler.org/openEuler-22.03-LTS-SP2/docker_img/x86_64/
 
 ## 安装部署说明
 
